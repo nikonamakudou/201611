@@ -9,7 +9,8 @@
 cd　c:\  
 mkdir projects
 cd projects
-git clone git@github.com:nikonamakudou/201611.git```
+git clone git@github.com:nikonamakudou/201611.git  
+```
 
 2.  放送日のフォルダに作成したゲームを格納する  
 フォルダの構成は放送日フォルダの下にGitHubの個人のアカウント名でフォルダを作り、  
